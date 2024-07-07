@@ -1,4 +1,4 @@
 main()
 just_update()
 newBranchUpdate()
-noya_kaj()
+notun_kaj()
