@@ -1,5 +1,5 @@
 main()
-just_update()()
+just_update()
 newBranchUpdate()
 notun_kaj()
 no conflict yet
